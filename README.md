@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @orimcoding
-- 👀 I’m interested in front-end & back-end development.
-- ⚡ Fun fact: I am  an aspiring machine learning engineer.
+- 👀 I’m interested in AI/ML & Quant
+- ⚡ CS @ UMD -> Graduating in 2028
 
 <!---
 orimcoding/orimcoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
