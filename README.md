@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @orimcoding
-- 👀 I’m interested in AI/ML & Quant
+- 👀 I’m interested in AI/ML, Full-Stack & Quant
 - ⚡ CS @ UMD -> Graduating in 2028
 
 <!---
