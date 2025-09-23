@@ -1,11 +1,13 @@
 <div align="center">
 
-# 👋 Hey there! I'm Ori 
+# 👋 Hey the---
+
+## 🛠️ Tech Stack
+
+<div align="center">'m Ori 
 
 <h3 align="center">
-  <img src=---
-
-## 🛠️ Tech Stacktyping-svg.demolab.com?font=Fira+Code&size=22&pause=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+AI%2FML+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+AI%2FML+Engineer" alt="Typing SVG" />
 </h3>
 
 <p align="center">
