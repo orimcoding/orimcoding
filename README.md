@@ -11,7 +11,7 @@
 
 ## About Me
 
-Building intelligent web applications and exploring AI/ML through hands-on projects. Currently focused on full-stack development, data science, and applying technology to quantitative finance.
+CS @ UMD. Focused on building and shipping AI-driven systems, from frontend to backend infrastructure. Interests include full-stack engineering, machine learning, and quantitative applications.
 
 ---
 
