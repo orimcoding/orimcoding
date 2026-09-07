@@ -4,4 +4,10 @@
 
 <br/>
 
+<sub>
+cs @ umd · building full-stack, ai, and quantitative systems
+</sub>
+
+<br/>
+
 </div>
